@@ -1,0 +1,149 @@
+[
+    {
+        "name": "Whale Watching",
+        "price": 30,
+        "description": "Explore the deep sea wild life on a whale watching adventure! Spend five hours on the sea and enjoy a fantastic meal on the boat",
+        "image": "https://images.pexels.com/photos/3635870/pexels-photo-3635870.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "category": "Leasure"
+    },
+    {
+        "name": "Parasailing",
+        "price": 50,
+        "description": "Fly above the sea and have an experience you will never foret. You can fly in tandem or solo and parasailing is safe for all ages.",
+        "image": "https://images.pexels.com/photos/8879787/pexels-photo-8879787.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "category": "Sport"
+    },
+    {
+        "name": "Zip Line Tour",
+        "price": 60,
+        "description": "Soar above the breathtaking landscapes of the island and get the best view of all the scenery. Your tour guides will make sure no site is missed.",
+        "image": "https://images.pexels.com/photos/2041759/pexels-photo-2041759.jpeg",
+        "category": "Tour"
+    },
+    {
+        "name": "Luau",
+        "price": 30,
+        "description": "Tropical gardens, tiki torches and a superb buffet-style meal create the perfect setting for this authentic three-hour experience",
+        "image": "https://images.pexels.com/photos/7226891/pexels-photo-7226891.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "category": "Leasure"
+    },
+    {
+        "name": "Snorkling",
+        "price": 30,
+        "description": "Get a delicous breakfast on your way to one of the most populated reefs on the island. Schools of fish as far as the eye can see!",
+        "image": "https://images.pexels.com/photos/4552982/pexels-photo-4552982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "category": "Sport"
+    },
+    {
+        "name": "Helicopter Tour",
+        "price": 100,
+        "description": "Get a birds eye view of the whole island with an ariel tour. So long as you aren't afraid of heights this will be an experience like no other.",
+        "image": "https://images.pexels.com/photos/2868213/pexels-photo-2868213.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "category": "Tour"
+    },
+    {
+        "name": "Kayaking",
+        "price": 40,
+        "description": "Travel the island water on a kayak shared either with a party member or a guide. Your sure to get a good exercise.",
+        "image": "https://images.pexels.com/photos/1430672/pexels-photo-1430672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "category": "Sport"
+    },
+    {
+        "name": "Scuba Diving",
+        "price": 50,
+        "description": "Dive deep into the sea to get a look at the marine life that most sea farers can only dream of. The dive will take place in an environment heavily populated by sea turtles.",
+        "image": "https://images.pexels.com/photos/1645028/pexels-photo-1645028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "category": "Sport"
+    },
+    {
+        "name": "Surfing",
+        "price": 20,
+        "description": "New to surfing? Rent a surf board along with some surfing lesson to get take you sea adventures to a whole new level.",
+        "image": "https://images.pexels.com/photos/6381482/pexels-photo-6381482.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "category": "Sport"
+    },
+    {
+        "name": "Horseback Riding",
+        "price": 30,
+        "description": "Take a relaxing ride on the back of a horse along the beautiful island coastline. You may also opt to ride through exquisite valleys.",
+        "image": "https://images.pexels.com/photos/8919477/pexels-photo-8919477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "category": "Sport"
+    },
+    {
+        "name": "Golfing",
+        "price": 20,
+        "description": "Wish you could gold but didnt bring the right equipment? No worries just rent a full set from the resort and you are ready to get on the course.",
+        "image": "https://images.pexels.com/photos/114972/pexels-photo-114972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "category": "Sport"
+    },
+    {
+        "name": "Cave Tour",
+        "price": 20,
+        "description": "If exploring the unknown is your thing then the our local cave tour is the activity for you. Our guide will take you a mile deep into the island.",
+        "image": "https://images.pexels.com/photos/5359974/pexels-photo-5359974.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "category": "Tour"
+    },
+    {
+        "name": "Volcano Tour",
+        "price": 30,
+        "description": "Explore our island signature wonder of the world. Engaging in this volcano tour would leave you speachless.",
+        "image": "https://images.pexels.com/photos/96457/pexels-photo-96457.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "category": "Tour"
+    },
+    {
+        "name": "Waterfall Hike",
+        "price": 20,
+        "description": "Nothing parallels the beauty of our natural waterfalls. Take a engaging hike up to our tallest waterfall.",
+        "image": "https://images.pexels.com/photos/6832/waterfall-beauty-lets-explore-lets-get-lost.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "category": "Tour"
+    },
+    {
+        "name": "Jet Skiing",
+        "price": 50,
+        "description": "",
+        "image": "https://images.pexels.com/photos/1430676/pexels-photo-1430676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "category": "Sport"
+    },
+    {
+        "name": "Paddle Boarding",
+        "price": 40,
+        "description": "",
+        "image": "https://images.pexels.com/photos/1790184/pexels-photo-1790184.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "category": "Sport"
+    },
+    {
+        "name": "Sail boat excursion",
+        "price": 30,
+        "description": "",
+        "image": "https://images.pexels.com/photos/1482193/pexels-photo-1482193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "category": "Leasure"
+    },
+    {
+        "name": "Deep Sea Fishing",
+        "price": 40,
+        "description": "",
+        "image": "https://images.pexels.com/photos/3098597/pexels-photo-3098597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "category": "Sport"
+    },
+    {
+        "name": "ATV Tour",
+        "price": 50,
+        "description": "",
+        "image": "https://images.pexels.com/photos/4800336/pexels-photo-4800336.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "category": "Tour"
+    },
+    {
+        "name": "Wine Tour",
+        "price": 30,
+        "description": "",
+        "image": "https://images.pexels.com/photos/110822/pexels-photo-110822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "category": "Tour"
+    },
+    {
+        "name": "Theatre Performance",
+        "price": 20,
+        "description": "",
+        "image": "https://images.pexels.com/photos/713149/pexels-photo-713149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "category": "Leisure"
+    }
+]
