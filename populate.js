@@ -1,3 +1,5 @@
+//This file when ran populates the database with our local json file.
+
 const connect = require('./database/dbConnect')
 const Activity = require('./models/activity')
 const activities = require('./activities.json')

@@ -1,3 +1,5 @@
+//Here is the mongoose schema that sets up our object structure and validators.
+
 const mongoose = require('mongoose')
 
 

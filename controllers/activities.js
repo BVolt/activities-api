@@ -1,5 +1,8 @@
+//Here is the controller for our activities routers. The two for public use
+//are get all and get by category.
 const Activity = require('../models/activity')
 
+//This function calls our MongoDB model function to return an array of all activities
 const getActivities = async (req, res) => {
     try{
         const activities = await Activity.find({})
@@ -9,6 +12,7 @@ const getActivities = async (req, res) => {
     }
 }
 
+//This function passes a parameter to the DB model function to return a filtered array of activities
 const getCategory = async (req, res) =>{
     try{
         const category = req.params.category
@@ -18,6 +22,9 @@ const getCategory = async (req, res) =>{
         res.status(500).json({msg: err})
     }
 }
+
+// Delete, add, and update activities are commented out because they
+// are for development purposes
 
 // const addActivity = async (req, res) => {
 //     try{

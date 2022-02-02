@@ -1,3 +1,6 @@
+/* Here are the routes that handle the get request. Patch delete and 
+post are commented out as they are for development purposes.*/
+
 const express = require('express')
 const router = express.Router()
 const {
