@@ -4,7 +4,7 @@
         "price": 30,
         "description": "Explore the deep sea wild life on a whale watching adventure! Spend five hours on the sea and enjoy a fantastic meal on the boat",
         "image": "https://images.pexels.com/photos/3635870/pexels-photo-3635870.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "category": "Leasure"
+        "category": "Leisure"
     },
     {
         "name": "Parasailing",
@@ -25,7 +25,7 @@
         "price": 30,
         "description": "Tropical gardens, tiki torches and a superb buffet-style meal create the perfect setting for this authentic three-hour experience",
         "image": "https://images.pexels.com/photos/7226891/pexels-photo-7226891.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "category": "Leasure"
+        "category": "Leisure"
     },
     {
         "name": "Snorkling",
@@ -100,49 +100,49 @@
     {
         "name": "Jet Skiing",
         "price": 50,
-        "description": "",
+        "description": "Explore the island shore in style on a jet ski. Our resort offers rentable jet ski along with comlementary lesson.",
         "image": "https://images.pexels.com/photos/1430676/pexels-photo-1430676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "category": "Sport"
     },
     {
         "name": "Paddle Boarding",
         "price": 40,
-        "description": "",
+        "description": "Get the feeling of walking on water and paddle board in the island waters. This activity will test your balance and athletic abilities.",
         "image": "https://images.pexels.com/photos/1790184/pexels-photo-1790184.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "category": "Sport"
     },
     {
         "name": "Sail boat excursion",
         "price": 30,
-        "description": "",
+        "description": "Take a relaxing ride on a sail boat and let the sea breaze fill your youngs. This activity is the rest and relaxation you need.",
         "image": "https://images.pexels.com/photos/1482193/pexels-photo-1482193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "category": "Leasure"
+        "category": "Leisure"
     },
     {
         "name": "Deep Sea Fishing",
         "price": 40,
-        "description": "",
+        "description": "Revolutionize your fishing experience by deep sea fishing with expert trained fishermen.",
         "image": "https://images.pexels.com/photos/3098597/pexels-photo-3098597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "category": "Sport"
     },
     {
         "name": "ATV Tour",
         "price": 50,
-        "description": "",
+        "description": "Cover lots of land and see many attractions with the atv tour. Fun for the whole family.",
         "image": "https://images.pexels.com/photos/4800336/pexels-photo-4800336.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "category": "Tour"
     },
     {
         "name": "Wine Tour",
         "price": 30,
-        "description": "",
+        "description": "Get a guided exploration of our local vineyard and taste an array of wines.",
         "image": "https://images.pexels.com/photos/110822/pexels-photo-110822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "category": "Tour"
     },
     {
         "name": "Theatre Performance",
         "price": 20,
-        "description": "",
+        "description": "Reserve your seats for the next showing of our island performers. You will be treated to musical story to sit back and relax to.",
         "image": "https://images.pexels.com/photos/713149/pexels-photo-713149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
         "category": "Leisure"
     }

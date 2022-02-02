@@ -1,5 +1,2 @@
-set up category query
-
-populate db
 error/ async handlers
-heorku
+heroku

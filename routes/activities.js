@@ -9,8 +9,8 @@ const {
     // updateActivity
 } = require('../controllers/activities')
 
-router.route('/static').get(getActivities)
-router.route('/').get(getCategory)
+router.route('/:category').get(getCategory)
+router.route('/').get(getActivities)
 // .post(addActivity)
 // router.route('/:id').patch(updateActivity).delete(delActivity)
 

@@ -11,9 +11,9 @@ const getActivities = async (req, res) => {
 
 const getCategory = async (req, res) =>{
     try{
-        const category = 'water'
-        const acts = await Activity.find({category})
-        res.status(201).json({acts})
+        const category = req.params.category
+        const activities = await Activity.find({category})
+        res.status(201).json({activities})
     }catch(err){
         res.status(500).json({msg: err})
     }
@@ -49,7 +49,7 @@ const getCategory = async (req, res) =>{
 //         const activities = await Activity.findByIdAndUpdate({_id: actId}, req.body,{new: true, runValidators: true})
 //         res.status(200).json({activities})
 //     }catch(err){
-//         console.log('error')
+//         console.log(err)
 //     }
 // }
 
