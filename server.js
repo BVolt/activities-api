@@ -9,7 +9,7 @@ app.use(express.json())
 app.use('/api/activities', activities)
 
 app.get('/', (req, res) =>{
-    res.send('activities api')
+    res.send('activities ai')
 })
 
 const port = process.env.PORT || 5000

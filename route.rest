@@ -1,7 +1,7 @@
 GET http://localhost:5000/api/activities/
 
 ###
-GET http://localhost:5000/api/activities/land
+GET http://localhost:5000/api/activities/sport
 
 ###
 POST http://localhost:5000/api/activities
